@@ -8,8 +8,8 @@ Utiliza `ffmpeg` para conversão de áudio/vídeo.
 
 ## Requisitos
 
-- [Python (versão mais recente)](https://www.python.org/downloads/)
-- [FFmpeg (versão mais recente para Windows)](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+- [Python (versão mais recente)](https://apps.microsoft.com/detail/9NCVDN91XZQP?hl=en-us&gl=BR&ocid=pdpshare)
+- [FFmpeg (versão mais recente para Windows)](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z)
 
 > ⚠️ Certifique-se de adicionar o FFmpeg ao PATH após extraí-lo.
 
